@@ -1,0 +1,3 @@
+# list of 2 random items from [-1000,...,1000], ei=1, ps=a, seed=5
+-630.03187
+534.53407
